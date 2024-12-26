@@ -1,8 +1,11 @@
 const a = 1
-const b = 2
+const b = 3
 
-const sum = a+ b
+const sum = a + b
+
+const sub = a - b
 
 
-console.log(sum)
+
+console.log(sum, sub)
 
